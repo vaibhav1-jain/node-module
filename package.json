@@ -1,0 +1,13 @@
+{
+"name": "palindromeCalcPax",
+"version": "0.2.0",
+"description": "This package will return calculation result or palindrome test",
+"main": "index.js",
+"author": {
+		"name": "Vaibhav Jain"
+		},
+"repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhav1-jain/node-module.git"
+}
+}
