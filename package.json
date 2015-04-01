@@ -1,6 +1,6 @@
 {
-"name": "palindromeCalcPax",
-"version": "0.2.0",
+"name": "palindromeTest",
+"version": "0.1.0",
 "description": "This package will return calculation result or palindrome test",
 "main": "index.js",
 "author": {
