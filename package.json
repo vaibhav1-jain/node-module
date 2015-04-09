@@ -1,5 +1,5 @@
 {
-"name": "palindromeTestMaven",
+"name": "palindromeTestJenkins",
 "version": "0.1.2",
 "description": "This package will return calculation result or palindrome test",
 "main": "index.js",
